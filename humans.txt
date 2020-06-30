@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pistachio Jones -- Full Stack Lead -- @Armo_Chris
+    Marilyn Alvarez -- Front End Lead -- @Alvo_Marilyn
 
 # THANKS
 
-    <name>
+    Russel Burt
 
 # TECHNOLOGY COLOPHON
 

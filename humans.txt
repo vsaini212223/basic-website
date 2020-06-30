@@ -6,6 +6,7 @@
     Pistachio Jones -- Full Stack Lead -- @Jones_Pistachio
     Marilyn Alvarez -- Front End Lead -- @Alvo_Marilyn
     Nick Armo -- UX & Design Lead -- @Armo_Nick
+    Jax Newton -- Back End Lead -- @Newt_Jax
 
 # THANKS
 

@@ -3,8 +3,9 @@
 
 # TEAM
 
-    Pistachio Jones -- Full Stack Lead -- @Armo_Chris
+    Pistachio Jones -- Full Stack Lead -- @Jones_Pistachio
     Marilyn Alvarez -- Front End Lead -- @Alvo_Marilyn
+    Nick Armo -- UX & Design Lead -- @Armo_Nick
 
 # THANKS
 

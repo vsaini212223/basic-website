@@ -1,11 +1,6 @@
-const greeting = 'hello, world!';
-
-function capitalize(word) {
-  return `${word[0].toUpperCase()}${word.substring(1)}`;
+function greet(greeting = "Hello", name = 'world', excited = true) {
+  return `${greeting}, ${name}${excited ? '!' : '.'}`;
 }
 
-function title(words) {
-  return words.split(' ').map(capitalize).join(' ');
-}
-
-console.log(title(greeting));
+console.log(greet('Sup', 'Marilyn', false));
+console.log(greet('Hey there', 'Pistachio'));

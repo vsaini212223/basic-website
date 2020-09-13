@@ -7,6 +7,8 @@
     Marilyn Alvarez -- Front End Lead -- @Alvo_Marilyn
     Nick Armo -- UX & Design Lead -- @Armo_Nick
     Jax Newton -- Back End Lead -- @Newt_Jax
+    Honda Shigeru -- Front End Junior -- @Shigeru_Honda
+    Sakura Tanaka -- Back End Junior -- @Tan_Sakura
 
 # THANKS
 
